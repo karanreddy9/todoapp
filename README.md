@@ -25,4 +25,4 @@ npm run client
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-In config/keys.js file, you have to set your own mongoURI. You could you use mlab for mongodb which is easy to setup & use.
+In config/keys.js file, you have to set your own mongoURI. You could use mlab for mongodb which is easy to setup & use.
